@@ -1,0 +1,4 @@
+#Mon Oct 12 04:35:48 GMT+05:00 2020
+base.0=C\:\\Users\\UK\\Desktop\\ReactProj\\Task\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
